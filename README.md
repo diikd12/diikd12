@@ -50,9 +50,7 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=diikd12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=diikd12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="GitHub Trophies" />
 </div>
 <br>
 <div align="center">
