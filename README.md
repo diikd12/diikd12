@@ -48,14 +48,16 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diikd12&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=diikd12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diikd12&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&v=99" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diikd12&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
