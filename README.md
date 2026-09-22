@@ -65,7 +65,7 @@ Have a collaboration project in mind, need video editing services, or just want 
   <a href="https://instagram.com/YOUR_IG_USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://tiktok.com/@YOUR_TIKTOK_USERNAME">
+  <a href="https://tiktok.com/@munreign">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://github.com/diikd12">
