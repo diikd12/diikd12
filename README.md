@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GANTI LINK DI BAWAH DENGAN LINK FOTO KAMU -->
-  <img src="LINK_FOTO_KAMU_DISINI" alt="Hadi Fauzan" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+  <img src="<img width="1040" height="965" alt="Image" src="https://github.com/user-attachments/assets/8e967ac9-8f9d-4ff8-8b41-f73f8253f8c6" />" alt="Hadi Fauzan" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
   <br><br>
   <a href="https://github.com/diikd12">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Hadi+Fauzan;Informatics+Engineering+Student;Creator+of+Divisorks;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
