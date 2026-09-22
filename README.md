@@ -47,15 +47,15 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📈 GitHub Activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diikd12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="GitHub Trophies" />
-</div>
-<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diikd12&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
+
+<br>
+
+> *"First, solve the problem. Then, write the code."* — **John Johnson**
 
 ---
 
