@@ -1,4 +1,7 @@
 <div align="center">
+  <!-- GANTI LINK DI BAWAH DENGAN LINK FOTO KAMU -->
+  <img src="LINK_FOTO_KAMU_DISINI" alt="Hadi Fauzan" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+  <br><br>
   <a href="https://github.com/diikd12">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Hadi+Fauzan;Informatics+Engineering+Student;Creator+of+Divisorks;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
@@ -16,7 +19,8 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
 
 - 🎓 **Education:** Informatics Engineering, Universitas Riau.
 - 💼 **Currently:** Developing software projects and building my creative portfolio at **Divisorks**.
-- 🌱 **Currently learning:** Data Structures, Algorithms, and UI/UX Design.
+- 🌱 **Currently learning:** Data Structures, Algorithms, UI/UX Design, Cyber Security, and the German language.
+- 🚀 **Ultimate Goal:** Aspiring to become a Cyber Security Professional.
 - 🎯 **This Year's Focus:** Expanding my Full-Stack Development skills, growing my design client base, and staying consistent with my workout routine (Push/Pull/Legs!).
 - ⚡ **Outside of IT:** When I'm not coding or editing, you can usually find me tuning my favorite JDM cars (Skyline R34 & Supra MK4) in Assetto Corsa or Forza Horizon 5, or pushing rank in PUBG Mobile.
 
@@ -38,15 +42,20 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  <img src="https://img.shields.io/badge/Alight%20Motion-000000?style=for-the-badge&logo=alightmotion&logoColor=white" alt="Alight Motion" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diikd12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diikd12&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&v=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diikd12&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diikd12&theme=tokyo-night&hide_border=true&border_radius=10" alt="GitHub Activity Graph" />
 </div>
 
 ---
