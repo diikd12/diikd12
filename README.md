@@ -42,8 +42,8 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/Alight%20Motion-000000?style=for-the-badge&logo=alightmotion&logoColor=white" alt="Alight Motion" />
+  <img src="https://img.shields.io/badge/CapCut-FFFFFF?style=for-the-badge&logo=capcut&logoColor=black" alt="CapCut" />
+  <img src="https://img.shields.io/badge/Alight%20Motion-0A3D2E?style=for-the-badge&logo=alightmotion&logoColor=white" alt="Alight Motion" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diikd12&theme=tokyo-night&hide_border=true&border_radius=10" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diikd12&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&v=99" alt="Top Languages" />
 </div>
 
 ---
