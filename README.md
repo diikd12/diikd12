@@ -21,7 +21,7 @@ Hello! I'm an **Informatics Engineering** undergraduate student at **Universitas
 - 🌱 **Currently learning:** Data Structures, Algorithms, UI/UX Design, Cyber Security, and the German language.
 - 🚀 **Ultimate Goal:** Aspiring to become a Cyber Security Professional.
 - 🎯 **This Year's Focus:** Expanding my Full-Stack Development skills, growing my design client base, and staying consistent with my workout routine (Push/Pull/Legs!).
-- ⚡ **Outside of IT:** When I'm not coding or editing, you can usually find me tuning my favorite JDM cars (Skyline R34 & Supra MK4) in Assetto Corsa or Forza Horizon 5, or pushing rank in PUBG Mobile.
+- ⚡ **Outside of IT:** When I'm not writing code or working on creative editing projects, you can usually find me hitting the virtual racing tracks in **Assetto Corsa** and **Assetto Corsa Competizione**, or grinding competitive ranks in **Valorant**.
 
 ---
 
